@@ -68,7 +68,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QQWry.cs" />
     <Compile Include="StringUtil.cs" />
-    <Compile Include="UIUtil.cs" />
+    <Compile Include="UiUtil.cs" />
     <Compile Include="Upload.cs" />
     <Compile Include="ValidateUtil.cs" />
     <Compile Include="XmlObject.cs" />
