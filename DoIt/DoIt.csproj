@@ -59,14 +59,14 @@
     <Compile Include="FuncUtil.cs" />
     <Compile Include="GatherUtil.cs" />
     <Compile Include="GifCode.cs" />
-    <Compile Include="IISManager.cs" />
+    <Compile Include="IisManager.cs" />
     <Compile Include="JpgCode.cs" />
     <Compile Include="JScriptUtil.cs" />
     <Compile Include="JsonUtil.cs" />
     <Compile Include="NoLink.cs" />
     <Compile Include="PngCode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QQWry.cs" />
+    <Compile Include="QqWry.cs" />
     <Compile Include="StringUtil.cs" />
     <Compile Include="UiUtil.cs" />
     <Compile Include="Upload.cs" />

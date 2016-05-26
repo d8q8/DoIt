@@ -13,9 +13,9 @@ namespace DoIt
      *      //获取纯真数据库路径
      *      string dbip = HttpContext.Current.Server.MapPath(filepath);
      *      //创建对象
-     *      QQWry qq = new QQWry(dbip);
+     *      QqWry qq = new QqWry(dbip);
      *      //产生IP地址
-     *      IPLocation loca = qq.SearchIPLocation(ip);
+     *      IpLocation loca = qq.SearchIpLocation(ip);
      *      //调用如下，城市和地区
      *      loca.country|loca.area
      * 
